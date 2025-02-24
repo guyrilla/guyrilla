@@ -31,17 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
 </div>
 
-###
-
 <h2 align="center">CODE EDITORS THAT I USE:</h2>
-
-###
 
 <br clear="both">
 
 <img align="right" height="390" src="https://i.pinimg.com/originals/27/14/29/271429a1b1cb41ff1403ed57bd9b1a7d.gif"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -50,8 +44,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
 
 <h2 align="center">PLATFORMS:</h2>
 
@@ -63,11 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-
 <h2 align="center">GIT AND CI/CD:</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -77,28 +65,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h2 align="left">My hobbies (besides IT):</h2>
 
-###
-
 <p align="left">✨ Gaming<br>📚 Watching anime<br>🎯 Reading<br>🎲 Make peoples happy</p>
-
-###
 
 <br clear="both">
 
 <h1 align="left">My personal qualities:</h1>
 
-###
-
 <h3 align="left">Communicability</h3>
-
-###
 
 <h4 align="left">This is my most important quality. I love communicating with people I already know, as well as finding more like-minded people</h4>
 
-###
