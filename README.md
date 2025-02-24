@@ -4,9 +4,9 @@
   <img height="300" src="https://pa1.aminoapps.com/7863/51826032faac0adc144e5d26ec5a7c1261624203r1-400-225_hq.gif"  />
 </div>
 
-<h2 align="center">I USE THIS TO WRITE CODE:</h2>
+<h2 align="left">I USE THIS TO WRITE CODE:</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
