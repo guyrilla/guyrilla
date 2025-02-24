@@ -17,12 +17,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://img.freepik.com/free-photo/portrait-cute-dog-anime-style_23-2151382145.jpg?t=st=1740428709~exp=1740432309~hmac=24c571aa29e461005245214a173791e19d29a3e88429c1be66d63a76cb07bf16&w=1060"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h2 align="left">My hobbies (besides IT):</h2>
