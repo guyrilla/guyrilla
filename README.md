@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h2 align="left">My hobbies (besides IT):</h2>
+<h2 align="left">Hobbies (besides IT):</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<h1 align="left">My personal qualities:</h1>
+<h1 align="left">Personal qualities:</h1>
 
 ###
 
