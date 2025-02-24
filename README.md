@@ -1,10 +1,4 @@
-<div align="left">
-  <h1>✨Hello everyone! Welcome to my profile✨</h1>
-  <img height="300" src="https://pa1.aminoapps.com/7863/51826032faac0adc144e5d26ec5a7c1261624203r1-400-225_hq.gif"  />
-  <h3>My name is Artem, and i'm student from Saratov, Russia🪆</h3>
-</div>
-
-<div align="right">
+<div align="center">
   <h1>✨Hello everyone! Welcome to my profile✨</h1>
   <img height="300" src="https://pa1.aminoapps.com/7863/51826032faac0adc144e5d26ec5a7c1261624203r1-400-225_hq.gif"  />
   <h3>My name is Artem, and i'm student from Saratov, Russia🪆</h3>
