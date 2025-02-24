@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://pa1.aminoapps.com/7863/51826032faac0adc144e5d26ec5a7c1261624203r1-400-225_hq.gif"  />
+  <img height="300" src="https://pa1.aminoapps.com/7863/51826032faac0adc144e5d26ec5a7c1261624203r1-400-225_hq.gif"  />
 </div>
 
 ###
