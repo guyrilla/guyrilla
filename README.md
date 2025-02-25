@@ -22,19 +22,11 @@
 
 <h3 align="left">⚫ Web development</h3>
 
-<h4 align="left">This is my most important quality. I love communicating with people I already know, as well as finding more like-minded people</h4>
-
 <h3 align="left">⚫ Game development</h3>
-
-<h4 align="left">I like to be honest with others and I also like when everyone gets what they deserve</h4>
 
 <h3 align="left">⚫ Testing</h3>
 
-<h4 align="left">I love programming and all IT sphere. I devote myself completely to my work, but when necessary I take breaks so as not to burn out</h4>
-
 <h3 align="left">⚫ Database control</h3>
-
-<h4 align="left">I am not a conflict person and I believe that if I treat others kindly, then they will treat me the same</h4>
 
 ----
 
