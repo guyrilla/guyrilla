@@ -20,13 +20,13 @@
 
 <h1 align="center">IT Preferences</h1>
 
-<h3 align="left">⚫ Web development</h3>
+<h3 align="left">☆ Web development</h3>
 
-<h3 align="left">⚫ Game development</h3>
+<h3 align="left">☆ Game development</h3>
 
-<h3 align="left">⚫ Testing</h3>
+<h3 align="left">☆ Testing</h3>
 
-<h3 align="left">⚫ Database control</h3>
+<h3 align="left">☆ Database control</h3>
 
 ----
 
