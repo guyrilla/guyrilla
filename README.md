@@ -44,7 +44,7 @@
 
 <h2 align="left">Hobbies (besides IT)</h2>
 
-<p align="left">✨ Gaming<br>📚 Watching anime<br>🎯 Reading<br>🎲 Make peoples happy</p>
+<p align="left">🎮 Gaming<br>☯︎ Watching anime<br>📚 Reading<br>⋆.˚✮🎧✮˚.⋆Listen music</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guyrilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
