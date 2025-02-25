@@ -42,6 +42,30 @@
 
 ----
 
+<h1 align="center">Personal qualities</h1>
+
+<h3 align="left">⚫ Communicability</h3>
+
+<h4 align="left">This is my most important quality. I love communicating with people I already know, as well as finding more like-minded people</h4>
+
+<h3 align="left">⚫ Fairness</h3>
+
+<h4 align="left">I like to be honest with others and I also like when everyone gets what they deserve</h4>
+
+<h3 align="left">⚫ Love to work</h3>
+
+<h4 align="left">I love programming and all IT sphere. I devote myself completely to my work, but when necessary I take breaks so as not to burn out</h4>
+
+<h3 align="left">⚫ Kindness</h3>
+
+<h4 align="left">I am not a conflict person and I believe that if I treat others kindly, then they will treat me the same</h4>
+
+<h3 align="left">⚫ Tenderness</h3>
+
+<h4 align="left">I'll help everyone who needs help</h4>
+
+----
+
 <h3 align="left">Hobbies</h3>
 
 <p align="left">🎮 Gaming<br>☯︎ Watching anime<br>📚 Reading<br>🎧Listen music</p>
