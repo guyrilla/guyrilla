@@ -75,5 +75,5 @@
 
 <h1 align="center">✨Thanks for reading! See you soon✨</h1>
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/08/5f/03/085f036aa0707d484ad1c2e2eb7bdb8f.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/08/5f/03/085f036aa0707d484ad1c2e2eb7bdb8f.gif"  />
 </div>
