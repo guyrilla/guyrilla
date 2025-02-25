@@ -21,6 +21,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guyrilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guyrilla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=guyrilla&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guyrilla&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
 
 <h2 align="left">Hobbies (besides IT):</h2>
 
@@ -139,5 +148,14 @@
 ###
 
 <h4 align="left">This is my most important quality. I love communicating with people I already know, as well as finding more like-minded people</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guyrilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guyrilla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=omni&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=guyrilla&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guyrilla&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
