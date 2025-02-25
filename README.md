@@ -22,6 +22,7 @@
 </div>
 
 ###
+----
 
 <h1 align="center">Personal qualities</h1>
 
