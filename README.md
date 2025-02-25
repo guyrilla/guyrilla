@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">My name is Artem, and i'm student from Saratov, Russia🪆</h1>
+<h1 align="center">My name is Artem (19 y.o), and i'm student from Saratov, Russia🪆</h1>
 
 ###
 
