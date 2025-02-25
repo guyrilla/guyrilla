@@ -18,7 +18,7 @@
 ###
 ----
 
-<h1 align="center">🏅Personal qualities🏅</h1>
+<h1 align="center">Personal qualities🏅</h1>
 
 <h3 align="left">Communicability</h3>
 
