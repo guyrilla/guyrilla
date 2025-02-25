@@ -73,6 +73,8 @@
 
 <p align="left">🎮 Gaming<br>☯︎ Watching anime<br>📚 Reading<br>🎧Listen music</p>
 
+<h1 align="center">✨Thanks for reading! See you soon✨</h1>
+
 ###
 
 <h1 align="center">✨Hello everyone! Welcome to my profile✨</h1>
