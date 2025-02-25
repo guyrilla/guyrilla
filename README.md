@@ -1,6 +1,6 @@
 <h1 align="center">✨Hello everyone! Welcome to my profile✨</h1>
 
-<h1 align="center">My name is Artem (19 y.o), and i'm student from Saratov, Russia🪆</h1>
+<h1 align="center">My name is Artem (19 y.o), i'm student from Saratov, Russia🪆</h1>
 
 <div align="center">
   <img height="300" src="https://pa1.aminoapps.com/7863/51826032faac0adc144e5d26ec5a7c1261624203r1-400-225_hq.gif"  />
