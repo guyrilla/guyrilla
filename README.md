@@ -40,9 +40,9 @@
 
 <h4 align="left">I'll help everyone who needs help</h4>
 
-###
+----
 
-<h2 align="left">Hobbies (besides IT):</h2>
+<h2 align="left">Hobbies (besides IT)</h2>
 
 <p align="left">✨ Gaming<br>📚 Watching anime<br>🎯 Reading<br>🎲 Make peoples happy</p>
 
